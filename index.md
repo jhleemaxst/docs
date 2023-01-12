@@ -7,6 +7,6 @@ permalink: /
 ---
 
 # Overview
-{: .fs-9 .mb-10}
+{: .fs-9 .mb-6}
 
 SensorFusionSLAM API 문서입니다. 후반부에는 간단한 Sample 앱 내용도 다룹니다.
