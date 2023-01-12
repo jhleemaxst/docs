@@ -4,7 +4,7 @@
   display: flex;
   flex-wrap: wrap;
   background: rgb(25,25,25);
-  background: linear-gradient(90deg, rgba(25,25,25,1) 0%, rgba(25,25,25,1) 97%, rgba(255,255,255,1) 100%);
+  background: linear-gradient(90deg, rgba(25,25,25,1) 0%, rgba(25,25,25,1) 97%,rgba(25,25,25,0.9) 98%, rgba(255,255,255,0.18) 99.9%);
 
   @include mq(md) {
     flex-flow: column nowrap;
