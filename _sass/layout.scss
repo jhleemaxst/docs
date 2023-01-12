@@ -1,6 +1,4 @@
 // The basic two column layout
-.site-header {border-bottom: 1px solid #2c2c2c}
-
 .side-bar {
   z-index: 0;
   display: flex;
@@ -101,11 +99,12 @@
   display: flex;
   min-height: $header-height;
   align-items: center;
+  border-bottom: 1px solid #2c2c2c;
 
   @include mq(md) {
     height: $header-height;
     max-height: $header-height;
-    border-bottom: 1px solid #2c2c2c;
+    
   }
 }
 
