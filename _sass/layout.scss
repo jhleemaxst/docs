@@ -75,7 +75,7 @@
   width: 100%;
 
   @include mq(lg) {
-    width: $nav-width;
+    width: 300px;
   }
 }
 
